@@ -1,4 +1,4 @@
-# INSTRUMENTATION-AMPLIFIER
+<img width="1600" height="1040" alt="image" src="https://github.com/user-attachments/assets/d01ab2b7-ce06-4ebc-8c26-6c3c692a5016" /># INSTRUMENTATION-AMPLIFIER
 
 AIM:
 To construct and test the CMRR of an instrumentation amplifier using op-amp IC741.
@@ -32,10 +32,14 @@ MODEL GRAPH:
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
+<img width="1600" height="1040" alt="image" src="https://github.com/user-attachments/assets/8b9ab282-0fda-4032-bad5-52635a75fca2" />
+
 
 
 GRAPH: 
+<img width="955" height="1526" alt="image" src="https://github.com/user-attachments/assets/384f6a58-0a65-4db7-8fb1-da6596350c8d" />
 
 
 RESULT:
+<img width="1600" height="963" alt="image" src="https://github.com/user-attachments/assets/9c77ec70-0fbc-4f1e-b160-7e85356d6309" />
 
